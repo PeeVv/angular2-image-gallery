@@ -19,8 +19,7 @@ import {CommonModule} from "@angular/common";
   imports: [
     CommonModule,
     FormsModule,
-    HttpModule,
-    BrowserAnimationsModule
+    HttpModule
   ],
   providers: [
     ImageService
